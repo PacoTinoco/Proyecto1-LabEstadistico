@@ -268,15 +268,7 @@ jupyter notebook Proyecto_Regresion_Iris.ipynb
 
 ## 📚 Referencias
 
-- Fisher, R. A. (1936). The use of multiple measurements in taxonomic problems. *Annals of Eugenics*, 7(2), 179-188. https://doi.org/10.1111/j.1469-1809.1936.tb02137.x
-
-- Dua, D., & Graff, C. (2019). UCI Machine Learning Repository. University of California, Irvine, School of Information and Computer Sciences. http://archive.ics.uci.edu/ml
-
 - Kaggle. (s.f.). Iris Flower Dataset. Recuperado de https://www.kaggle.com/datasets/arshid/iris-flower-dataset
-
-- Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research*, 12, 2825-2830.
-
-- Seabold, S., & Perktold, J. (2010). Statsmodels: Econometric and statistical modeling with Python. *Proceedings of the 9th Python in Science Conference*, 57-61.
 
 ---
 
